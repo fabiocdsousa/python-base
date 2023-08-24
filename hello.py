@@ -30,11 +30,11 @@ msg = "Hello, World!"
 # Aqui aplicamos a condicional
 
 if current_language == "pt_BR":
-        msg = "Olá Mundo!"
+    msg = "Olá Mundo!"
 elif current_language == "it_IT":
-        msg = "Cia, MOndo!"
+    msg = "Cia, MOndo!"
 elif current_language == "fr_FR":
-        msg = "Bonjour, MOnde!"
+    msg = "Bonjour, MOnde!"
 
 print(msg)
 
